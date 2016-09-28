@@ -1,0 +1,12 @@
+Knight 0 40
+Soldier 0 30
+Demon 0 35
+Gladiator 0 25
+Peasant 0 15
+Taly 0 50
+Lion 1 40
+Panther 1 30
+Tiger 1 35
+Rat 1 15
+Dragonling 1 25
+Bear 1 50

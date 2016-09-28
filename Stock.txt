@@ -1,0 +1,3 @@
+Health_potion 5
+Weapon_Poison 25
+Luck_Potion 10

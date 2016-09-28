@@ -1,0 +1,7 @@
+Twisted_Prince 0 75
+Skeleton_King 0 65
+Your_Mum 0 60
+Nick_Cronin 0 250
+Cyborg_Bear 1 65
+Great_Dragon 1 80
+Squirrel 1 100
